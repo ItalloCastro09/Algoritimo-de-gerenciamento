@@ -1,4 +1,4 @@
-# Programa de implementando o algoritimo first fit em java
+# Programa em java implementando o algoritimo first fit
 
  *No primeiro ajuste, a partição é alocada, o que é suficiente pela primeira vez na parte superior da Memória principal.
 Sua vantagem é que é a pesquisa mais rápida, pois pesquisa apenas o primeiro bloco, ou seja, o suficiente para atribuir um processo.
